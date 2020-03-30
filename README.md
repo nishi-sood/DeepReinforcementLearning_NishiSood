@@ -36,29 +36,24 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Step 1: Clone the DRLND Repository and installing dependencies
 #### 1. Set Up for the  python environment to run the code in this repository
 #### Environment
-conda create --name drlnd python=3.6
-source activate drlnd
+ - conda create --name drlnd python=3.6
+ - source activate drlnd
 
 #### 2. Install of OpenAI gym packages
 #### OpenAI gym
-git clone https://github.com/openai/gym.git
-cd gym
-pip install -e .
-pip install -e .[classic_control]
-conda install swig
-pip install -e .[box2d]
+ - git clone https://github.com/openai/gym.git
+ - cd gym
+ - pip install -e .
+ - pip install -e .[classic_control]
+ - conda install swig
+ - pip install -e .[box2d]
 
 #### 3.  Other Dependencies
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
-pip install .
-
-Screenshot of the dependencies:
-
+ - git clone https://github.com/udacity/deep-reinforcement-learning.git
+ - cd deep-reinforcement-learning/python
+ - pip install .
 
 NOTE: List of the installed dependencies can be found in “requirements.txt” attached with the project.
-
-
 
 ### Trouble shooting:
 
