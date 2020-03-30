@@ -127,7 +127,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 Plot showing the score per episode over all the episodes.
 The best performance was achieved by Dueling DQN where the reward of +13 was achieved in 358 episodes. 
 
-| Double DQN | DQN | Dueling DQN |
-:-------------------------:|:-------------------------:|:-------------------------:
-![double-dqn-scores](https://github.com/dalmia/udacity-deep-reinforcement-learning/blob/master/2%20-%20Value-based%20methods/Project-Navigation/results/ddqn_new_scores.png) |  ![dqn-scores](https://github.com/dalmia/udacity-deep-reinforcement-learning/blob/master/2%20-%20Value-based%20methods/Project-Navigation/results/dqn_new_scores.png) | ![dueling-double-dqn-scores](https://github.com/dalmia/udacity-deep-reinforcement-learning/blob/master/2%20-%20Value-based%20methods/Project-Navigation/results/dddqn_new_scores.png) 
+| Double DQN                                 | DQN                                | Dueling DQN                                         |
+| ------------------------------------------ | ---------------------------------- | --------------------------------------------------- |
+| ![double-dqn](results/ddqn_new_scores.png) | ![dqn](results/dqn_new_scores.png) | ![dueling double dqn](results/Duelingddqn_new_scores.png) |
 
