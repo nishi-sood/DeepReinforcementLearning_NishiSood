@@ -1,5 +1,5 @@
 # Deep Reinforcement Learning : Project 1:Navigation Report
-Author: [Nishi Sood](http://github.com/nishisood31) 
+Author: [Nishi Sood](https://github.com/nishi-sood/DeepReinforcementLearning_NishiSood) 
 
 ## About Deep Reinforcement Learning Terminologies
 
@@ -34,6 +34,7 @@ Author: [Nishi Sood](http://github.com/nishisood31)
 ## Project's goal
 
 In this project, the goal is to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas
+
 ![trained](images/trained_agent.gif) 
 
 
