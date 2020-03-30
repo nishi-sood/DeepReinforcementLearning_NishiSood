@@ -78,7 +78,7 @@ The best performance was achieved by Dueling DQN where the reward of +13 was ach
 
 | Double DQN                                 | DQN                                | Dueling DQN                                         |
 | ------------------------------------------ | ---------------------------------- | --------------------------------------------------- |
-| ![double-dqn](results/ddqn_new_scores.png) | ![dqn](results/dqn_new_scores.png) | ![dueling double dqn](results/dddqn_new_scores.png) |
+| ![double-dqn](results/ddqn_new_scores.png) | ![dqn](results/dqn_new_scores.png) | ![dueling double dqn](results/Duelingddqn_new_scores.png) |
 
 ### Ideas for future work
  - This model was a simple DQN network, we even tried double q-learning and, switch to a dueling dqn architecture.
